@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pradeep%20Kumar%20Kaloori&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Site%20Reliability%20Engineer%20%40%20HPE%20(Juniper%20Mist)&descAlignY=58&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pradeep%20Kumar%20Kaloori&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Site%20Reliability%20Engineer%20%40%20HPE&descAlignY=58&descSize=18" alt="header"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### 👋 About me
 
-- 🛠️ **Site Reliability Engineer** at **HPE (Juniper Mist)**, keeping large multi-cloud (AWS · GCP · Azure) Kubernetes fleets healthy
+- 🛠️ **Site Reliability Engineer** at **HPE**, keeping large multi-cloud (AWS · GCP · Azure) Kubernetes fleets healthy
 - 🤖 Building **self-driving cloud operations**: AI agents that triage alerts, do RCA, and auto-remediate
 - 🔭 Currently working on **AIOps agents** with LangGraph, Langfuse, and Kubernetes operators
 - 🌱 Currently learning **Go internals**, **agent evals**, and **native macOS apps in Swift**
@@ -49,19 +49,26 @@
 
 <p align="center">
   <a href="https://github.com/pradeep-kaloori/resource-monitor"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pradeep-kaloori&repo=resource-monitor&theme=tokyonight&hide_border=true"/></a>
-  <a href="https://github.com/pradeep-kaloori/agent-skills"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pradeep-kaloori&repo=agent-skills&theme=tokyonight&hide_border=true"/></a>
-  <a href="https://github.com/pradeep-kaloori/k8s-bot"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pradeep-kaloori&repo=k8s-bot&theme=tokyonight&hide_border=true"/></a>
-  <a href="https://github.com/pradeep-kaloori/ai-content-bot"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pradeep-kaloori&repo=ai-content-bot&theme=tokyonight&hide_border=true"/></a>
-  <a href="https://github.com/pradeep-kaloori/go-python-practice"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pradeep-kaloori&repo=go-python-practice&theme=tokyonight&hide_border=true"/></a>
-  <a href="https://github.com/pradeep-kaloori/rummy-friends"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pradeep-kaloori&repo=rummy-friends&theme=tokyonight&hide_border=true"/></a>
+  <a href="https://github.com/pradeep-kaloori/location-topology-bot"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pradeep-kaloori&repo=location-topology-bot&theme=tokyonight&hide_border=true"/></a>
   <a href="https://github.com/pradeep-kaloori/pagerduty"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pradeep-kaloori&repo=pagerduty&theme=tokyonight&hide_border=true"/></a>
-  <a href="https://github.com/pradeep-kaloori/terraform"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pradeep-kaloori&repo=terraform&theme=tokyonight&hide_border=true"/></a>
+  <a href="https://github.com/pradeep-kaloori/Sweet_Home"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pradeep-kaloori&repo=Sweet_Home&theme=tokyonight&hide_border=true"/></a>
 </p>
+
+#### 🔒 Private projects
+
+| Project | What it does |
+|---|---|
+| 🤖 **k8s-bot** | Prevents Storm topology lag by auto-remediating lag-related issues |
+| 🧠 **agent-skills** | Personal Agent Skills for Copilot / Claude |
+| 📰 **ai-content-bot** | Posts AI news and tutorials on X |
+| 🏗️ **terraform** | Infrastructure as code for cloud environments |
+| 🐹 **go-python-practice** | Test-driven practice track for learning Go and Python |
+| 🃏 **rummy-friends** | Rummy score tracker on Cloud Run with Google sign-in |
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pradeep-kaloori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pradeep-kaloori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-kaloori&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 <p align="center">
