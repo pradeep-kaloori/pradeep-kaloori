@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/pradeep-kaloori?tab=followers"><img src="https://img.shields.io/github/followers/pradeep-kaloori?label=Followers&style=for-the-badge&color=2c5364&logo=github" alt="followers"/></a>
+  <a href="https://www.linkedin.com/in/pradeep-k-2146a7159/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=pradeep-kaloori&style=for-the-badge&color=203a43&label=Profile+views" alt="profile views"/>
 </p>
 
